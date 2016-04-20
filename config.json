@@ -1,3 +1,4 @@
 {
-
+  "test_folder": "../test-data/tests",
+  "order_folder": "../test-data/orders"
 }

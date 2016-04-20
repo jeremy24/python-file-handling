@@ -128,5 +128,5 @@ def handle_tests():
     print "All Done"
 
 
-handle_orders()
-handle_tests()
+# handle_orders()
+# handle_tests()
