@@ -1,0 +1,14 @@
+{
+  "sql_settings": {
+    "database": "DATABASE_NAME",
+    "user": "USER_NAME",
+    "password": "PASSWORD",
+    "address": "DB_ADDRESS"
+  },
+  "mongo_settings": {
+    "database": "DATABASE_NAME",
+    "user": "USER_NAME",
+    "password": "PASSWORD",
+    "address": "DB_ADDRESS"
+  }
+}
